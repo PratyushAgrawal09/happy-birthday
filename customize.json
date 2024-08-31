@@ -2,7 +2,7 @@
   "greeting": "Hello",
   "name": " Chinki Didi",
   "greetingText": "Aasha Karte Hai Ki Aap Jinda Hai",
-  "wishText": "May the message always be with you! ;)",
+  "wishText": "May the message makes you happy you! ;)",
   "imagePath": "img/megha.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Many Many Returns Of The Day",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "Made By Pratyush Agrawal, Code by faahim.",
+  "replayText": "Click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
